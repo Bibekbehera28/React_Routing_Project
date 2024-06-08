@@ -1,0 +1,32 @@
+.active{
+  color: #5f99be;
+}
+
+button{
+  color: black;
+  background-color: greenyellow;
+}
+
+
+li{
+  margin-right: 200px;
+}
+
+#sub{
+  color: black;
+  background-color: greenyellow;
+}
+
+#contact{
+  text-align: center;
+}
+
+#Home{
+  text-align: center;
+}
+
+#about{
+  margin: 50px;
+  text-align: center;
+}
+
